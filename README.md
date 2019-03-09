@@ -2,4 +2,6 @@
 
 This is a demo repo for teaching GitHub and git at a Software workshop held at UCSF Mission Bay.
 
-This was created on GitHub.
+This was created on my laptop.
+
+
